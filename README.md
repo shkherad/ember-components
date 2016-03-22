@@ -30,10 +30,20 @@ By the end of this, developers should be able to:
     this repository.
 1.  Install dependencies with `npm install` and `bower install`.
 
+## Components Represent a Visual Element
+
+> ![component hierarchy](https://cloud.githubusercontent.com/assets/388761/12339386/dc1cc062-bae2-11e5-85be-ae33da715b2c.png)
+>
+> From [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
+
 ## Follow-Along: Wireframe the Listr Interface
 
-Wireframe the [Listr client](https://github.com/ga-wdi-boston/listr-client)
-application interface.
+Let's wireframe the [Listr
+client](https://github.com/ga-wdi-boston/listr-client) application interface
+with a focus on identifying different logical interface elements. We'll call
+these visual elements "components".
+
+![listr demo](https://cloud.githubusercontent.com/assets/388761/12339395/e809372a-bae2-11e5-8073-89bcee5a7351.png)
 
 ## Code-Along: Create a List Component
 
@@ -51,6 +61,10 @@ Toggle strike-through of list item on item click.
 
 -   [Ember Component Guide](http://guides.emberjs.com/v2.4.0/components/defining-a-component/)
 -   [Ember Component API Documentation](http://emberjs.com/api/classes/Ember.Component.html)
+-   [Parent to Children Component Communication for UI State - Ember Igniter](http://emberigniter.com/parent-to-children-component-communication/)
+-   [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
+-   [Ember Best Practices: Actions Down, Data Up... wait what?](https://dockyard.com/blog/2015/10/14/best-practices-data-down-actions-up)
+-   [How Ember Data affects data down, actions up](http://www.samselikoff.com/blog/how-ember-data-affects-data-down-actions-up/)
 
 ## [License](LICENSE)
 
