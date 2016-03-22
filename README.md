@@ -44,7 +44,12 @@ these visual elements "components".
 
 ## Code-Along: Create a List Component
 
+Let's name it `listr-list` to follow best practices. We wouldn't want to clash
+with any new HTML elements in future specs!
+
 ## Lab: Create a List Item Component
+
+Name it `list-list`.
 
 ## Code-Along: Toggle Display of a List
 
