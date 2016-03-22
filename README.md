@@ -9,11 +9,8 @@ element in the user interface.
 
 ## Prerequisites
 
--   Topics with which developers should be familiar with.
--   Prerequisites are "just-in-time", so if I have a prerequisite that mentions
-    Sass, I would **not** need to include CSS as a prerequisite.
--   [Links to previous materials](https://www.github.com/ga-wdi-boston/example)
-    are often useful.
+-   [ga-wdi-boston/ember-object](https://github.com/ga-wdi-boston/ember-object)
+-   [ga-wdi-boston/ember-routing-dynamic](https://github.com/ga-wdi-boston/ember-routing-dynamic)
 
 ## Objectives
 
