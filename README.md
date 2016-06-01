@@ -61,7 +61,7 @@ Toggle strike-through of list item on item click.
 
 ## Additional Resources
 
--   [Ember Component Guide](http://guides.emberjs.com/v2.4.0/components/defining-a-component/)
+-   [Ember Component Guide](http://guides.emberjs.com/v2.5.0/components/defining-a-component/)
 -   [Ember Component API Documentation](http://emberjs.com/api/classes/Ember.Component.html)
 -   [Ember Actions](https://guides.emberjs.com/v2.5.0/templates/actions/)
 -   [Ember Action Handler](http://emberjs.com/api/classes/Ember.ActionHandler.html#method_send)
