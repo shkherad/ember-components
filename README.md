@@ -49,7 +49,7 @@ with any new HTML elements in future specs!
 
 ## Lab: Create a List Item Component
 
-Name it `list-list`.
+Name it `listr-list/item`.
 
 ## Code-Along: Toggle Display of a List
 
@@ -63,6 +63,8 @@ Toggle strike-through of list item on item click.
 
 -   [Ember Component Guide](http://guides.emberjs.com/v2.4.0/components/defining-a-component/)
 -   [Ember Component API Documentation](http://emberjs.com/api/classes/Ember.Component.html)
+-   [Ember Actions](https://guides.emberjs.com/v2.5.0/templates/actions/)
+-   [Ember Action Handler](http://emberjs.com/api/classes/Ember.ActionHandler.html#method_send)
 -   [Parent to Children Component Communication for UI State - Ember Igniter](http://emberigniter.com/parent-to-children-component-communication/)
 -   [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
 -   [Ember Best Practices: Actions Down, Data Up... wait what?](https://dockyard.com/blog/2015/10/14/best-practices-data-down-actions-up)
