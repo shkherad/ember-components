@@ -2,7 +2,7 @@
 
 # Ember Components
 
-Components are used to encapsulate (repetitious) markup and tie it behavior.
+Components are used to encapsulate (repetitious) markup and tie it to behavior.
 Instead of separating our concerns along technological lines (HTML, CSS, JS),
 components tie all three of these technologies together under a reified visual
 element in the user interface.
