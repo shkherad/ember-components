@@ -1,2 +1,14 @@
 @import 'bootstrap';
 @import 'bootstrap/theme';
+
+.list-hide :not(:first-child){
+  display: none;
+}
+
+.list-strike {
+  text-decoration: line-through;
+}
+
+.list-container  {
+  border: 1px solid green;
+}
